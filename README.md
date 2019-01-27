@@ -8,7 +8,7 @@ HTML/CSS
     2. update the css file to style the portfolio.html and contact.html pages better;
     3. make sure all images and background images show up on the website;
     4. add bio;
-
+    5. add comments to explain what I'm doing - or my intentions rather!
 
 
 
